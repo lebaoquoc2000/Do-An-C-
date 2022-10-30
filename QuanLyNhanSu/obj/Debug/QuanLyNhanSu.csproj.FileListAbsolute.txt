@@ -1,0 +1,12 @@
+D:\doancautruc\bin\Debug\DoAnMain.exe.config
+D:\doancautruc\bin\Debug\DoAnMain.exe
+D:\doancautruc\bin\Debug\DoAnMain.pdb
+D:\doancautruc\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+D:\doancautruc\obj\Debug\DoAnMain.exe
+D:\doancautruc\obj\Debug\DoAnMain.pdb
+D:\Nhom2_QuanLyNhanSu\bin\Debug\DoAnMain.exe.config
+D:\Nhom2_QuanLyNhanSu\obj\Debug\DoAnMain.exe
+D:\Nhom2_QuanLyNhanSu\obj\Debug\DoAnMain.pdb
+D:\Nhom2_QuanLyNhanSu\bin\Debug\DoAnMain.exe
+D:\Nhom2_QuanLyNhanSu\bin\Debug\DoAnMain.pdb
+D:\Nhom2_QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
